@@ -1,4 +1,8 @@
+
 # LitBryo: Mining the literature for specimen images 
+<p align="center">
+  <img width="200" height="280" src="./demo.jpg">
+</p>
 
 ## Description
 
